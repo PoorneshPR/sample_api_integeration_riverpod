@@ -1,0 +1,36 @@
+<variant
+    name="release"
+    package="com.example.sample_riverpod"
+    minSdkVersion="21"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="C:\Users\tech\StudioProjects\sample_riverpod\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    manifestMergeReport="C:\Users\tech\StudioProjects\sample_riverpod\build\app\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="C:\Users\tech\StudioProjects\sample_riverpod\build\app\intermediates\default_proguard_files\global\proguard-android.txt-8.1.0;C:\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="C:\Users\tech\StudioProjects\sample_riverpod\build\app\intermediates\lint_vital_partial_results\release\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\release\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="C:\Users\tech\StudioProjects\sample_riverpod\build\app\intermediates\javac\release\classes;C:\Users\tech\StudioProjects\sample_riverpod\build\app\tmp\kotlin-classes\release;C:\Users\tech\StudioProjects\sample_riverpod\build\app\kotlinToolingMetadata;C:\Users\tech\StudioProjects\sample_riverpod\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.sample_riverpod"
+      generatedSourceFolders="C:\Users\tech\StudioProjects\sample_riverpod\build\app\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="C:\Users\tech\StudioProjects\sample_riverpod\build\app\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\tech\.gradle\caches\transforms-3\960a67cab1440d57165116e5d113ee39\transformed\D8BackportedDesugaredMethods.txt">
+  </mainArtifact>
+</variant>

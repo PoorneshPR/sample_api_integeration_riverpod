@@ -1,0 +1,1 @@
+ C:\\Users\\tech\\StudioProjects\\sample_riverpod\\.dart_tool\\flutter_build\\09cd1d614f9d0ab139aae82a068dbd60\\native_assets.yaml: 
