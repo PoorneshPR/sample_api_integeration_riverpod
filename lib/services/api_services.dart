@@ -1,9 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/cupertino.dart';
-import 'package:sample_riverpod/model/passengers/passengers_model.dart';
+
 
 import 'package:http/http.dart' as http;
 import 'package:sample_riverpod/services/passenger_base_services.dart';
+
+import '../model/passengers/passengers_model.dart';
 
 
 
