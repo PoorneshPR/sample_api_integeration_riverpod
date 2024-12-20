@@ -1,4 +1,4 @@
-#Thu Dec 19 11:47:19 IST 2024
+#Fri Dec 20 12:01:06 IST 2024
 base.0=C\:\\Users\\tech\\StudioProjects\\sample_riverpod\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
